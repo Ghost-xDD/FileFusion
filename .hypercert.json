@@ -1,14 +1,18 @@
 {
   "title": "Ghost-xDD/FileFusion",
-  "description": "FileFusion is a GitHub repository for a decentralized file-sharing and storage platform with no recent development activity and a single contributor.",
+  "description": "FileFusion is a GitHub repository with minimal recent activity, featuring a decentralized file-sharing and storage platform concept.",
   "contributors": [
     {
       "name": "Ghost-xDD",
       "githubLogin": "Ghost-xDD"
+    },
+    {
+      "name": "kredence-app[bot]",
+      "githubLogin": "kredence-app[bot]"
     }
   ],
   "timeframeStart": "2024-05-25",
-  "timeframeEnd": "2024-06-10",
+  "timeframeEnd": "2026-03-29",
   "impactCategory": [
     "data",
     "infrastructure"
@@ -18,85 +22,84 @@
     "Web3 storage platform",
     "Polkadot ecosystem",
     "blockchain technology",
-    "user data control"
+    "file encryption"
   ],
   "evidenceRefs": [
     {
       "label": "Evidence Bundle",
-      "url": "https://bafkreidxydo3kw7ppksbo6id7r24gvuq3qanzdgupy3ivhcdknz7fkj2yu.ipfs.storacha.link",
-      "storachaCid": "bafkreidxydo3kw7ppksbo6id7r24gvuq3qanzdgupy3ivhcdknz7fkj2yu"
+      "url": "https://bafkreih3gqiz4e5q4znvzd2lssabaqnkks2v2bodp3653clvov6vg4ztaq.ipfs.storacha.link",
+      "storachaCid": "bafkreih3gqiz4e5q4znvzd2lssabaqnkks2v2bodp3653clvov6vg4ztaq"
     },
     {
       "label": "Adversarial Log (Signed Receipt)",
-      "url": "https://bafkreie6gwbk57kszzdlxpxjwjgbvo7akof3fkscic472ttlov6pkkbpf4.ipfs.storacha.link",
-      "storachaCid": "bafkreie6gwbk57kszzdlxpxjwjgbvo7akof3fkscic472ttlov6pkkbpf4"
+      "url": "https://bafkreifzghrpjblpft3ffjhcvnyxo42heehcetyqmay56ich2z62eknhp4.ipfs.storacha.link",
+      "storachaCid": "bafkreifzghrpjblpft3ffjhcvnyxo42heehcetyqmay56ich2z62eknhp4"
     }
   ],
   "verifiedClaims": [
     {
-      "id": "t-ls9xS3XTkFISRJ45B7L",
-      "text": "The repository has had 0 commits in the last 90 days, indicating no recent development activity.",
+      "id": "UGA_sHBhN3b1mx43xlUvs",
+      "text": "The repository has had 1 commit in the last 90 days, indicating minimal recent development activity.",
       "supportingEvidence": [
-        "GitHub shows 0 commits in the last 90 days."
+        "The GitHub repository shows 1 commit in the last 90 days, which matches the claim."
       ]
     },
     {
-      "id": "1Kn4MgIcoV8rZLaux72Gm",
-      "text": "The repository has 1 contributor according to GitHub's contributor list.",
+      "id": "pwOxbYdvvb_BhoDCV1Ps5",
+      "text": "The repository has 2 contributors according to GitHub's contributor list.",
       "supportingEvidence": [
-        "GitHub shows 1 contributor: Ghost-xDD with 15 commits."
+        "GitHub shows 2 contributors: Ghost-xDD and kredence-app[bot]."
       ]
     },
     {
-      "id": "5lZa73PvTO_l2F-L3cEjd",
-      "text": "The repository was created 22 months ago, indicating it is a pre-existing project.",
+      "id": "7vuq66bg9oQXwOLFFtwTF",
+      "text": "The repository has 0 stars and 3 forks.",
       "supportingEvidence": [
-        "GitHub shows the repository is 22 months old."
-      ]
-    },
-    {
-      "id": "IiSlrX-8q8yLBeC3Jg2t4",
-      "text": "The project has no GitHub releases.",
-      "supportingEvidence": [
-        "GitHub shows no releases for the repository."
+        "The GitHub repository shows 0 stars and 3 forks, which matches the claim."
       ]
     }
   ],
   "flaggedClaims": [
     {
-      "id": "BozbRQuErmqA5KqFDUZYR",
+      "id": "iJRrabRp-Rhpqz_A5Hzzc",
       "text": "Filefusion is a decentralized, Web3 file-sharing and storage platform built on Apillon's infrastructure within the Polkadot ecosystem.",
-      "objection": "The claim about being built on Apillon's infrastructure within the Polkadot ecosystem is only found in the self-reported GitHub repository description with no independent corroboration.",
+      "objection": "The claim is self-reported with no independent verification of the platform being built on Apillon's infrastructure within the Polkadot ecosystem.",
       "challengeType": "consistency"
     },
     {
-      "id": "fH0xP7fKqC7ZjaS-FQJez",
+      "id": "vANJCckClWahtkY-JDtRb",
       "text": "Filefusion leverages blockchain technology to offer enhanced security, privacy, and user control over their data.",
-      "objection": "The claim about leveraging blockchain technology for enhanced security, privacy, and user control is only found in the self-reported README with no independent corroboration.",
+      "objection": "The claim is self-reported with no independent verification of the use of blockchain technology for security, privacy, and user control.",
       "challengeType": "consistency"
     },
     {
-      "id": "SwHrlPGlJwQlxM_r0wD1d",
-      "text": "Filefusion integrates with Apillon's Auth API, Storage API, Computing API, and NFT API.",
-      "objection": "The claim about integration with Apillon's APIs is only found in the self-reported README with no independent corroboration.",
+      "id": "XP5w4PnYaQh9IKY9EjzaW",
+      "text": "Filefusion provides features similar to WeTransfer and Dropbox.",
+      "objection": "The claim is self-reported with no independent verification of providing features similar to WeTransfer and Dropbox.",
       "challengeType": "consistency"
     },
     {
-      "id": "25-12-FYSDsUiTaFvndHY",
-      "text": "Filefusion supports three modes: Storage Mode, Transfer Mode, and Private Mode.",
-      "objection": "The claim about supporting three modes is only found in the self-reported README with no independent corroboration.",
+      "id": "CAtE3t1vGH8i-vWEi73Kd",
+      "text": "Filefusion integrates with Apillon Auth API for authentication.",
+      "objection": "The claim is self-reported with no independent verification of integration with Apillon Auth API.",
       "challengeType": "consistency"
     },
     {
-      "id": "ZWXhzHceJ_bphR93BzA6M",
-      "text": "Filefusion uses KILT DID for sign-in, utilizing the Sporran Wallet.",
-      "objection": "The claim about using KILT DID for sign-in is only found in the self-reported README with no independent corroboration.",
+      "id": "j06jvpE8CbOQI0ByVRXAW",
+      "text": "Filefusion uses Apillon Storage API for file uploads and retrieval.",
+      "objection": "The claim is self-reported with no independent verification of using Apillon Storage API for file uploads and retrieval.",
+      "challengeType": "consistency"
+    },
+    {
+      "id": "InjnzHKSniwpnui_LkFgl",
+      "text": "Filefusion uses Apillon Computing API for file encryption and decryption.",
+      "objection": "The claim is self-reported with no independent verification of using Apillon Computing API for file encryption and decryption.",
       "challengeType": "consistency"
     }
   ],
   "openQuestions": [],
-  "evaluatorSummary": "The FileFusion project claims to be a decentralized file-sharing and storage platform built on Apillon's infrastructure within the Polkadot ecosystem. However, the GitHub repository shows no commits in the last 90 days, indicating a lack of recent development activity, and it has only one contributor. There are no releases or stars, suggesting limited community engagement or adoption. Several claims about the project's features and integrations are flagged due to lack of independent verification. Overall, the evidence does not strongly support the project's impact claims, and potential funders should consider the low activity and unverified claims when evaluating this project.",
-  "confidenceScore": 0.44,
+  "evaluatorSummary": "The FileFusion project on GitHub shows minimal recent development activity, with only 1 commit in the last 90 days and 2 contributors. The repository has not gained any stars, indicating limited community engagement or recognition. Many of the project's claims, such as its integration with Apillon's infrastructure and the use of blockchain technology, are self-reported and lack independent verification. Given the low activity and absence of verified claims, the project's impact and progress are difficult to assess reliably. Funders should consider these factors when evaluating the project's credibility and potential impact.",
+  "confidenceScore": 0.33,
   "evaluatedBy": [
     {
       "agentId": "3040",
@@ -124,18 +127,18 @@
     }
   ],
   "storachaRefs": {
-    "evidenceBundleCid": "bafkreidxydo3kw7ppksbo6id7r24gvuq3qanzdgupy3ivhcdknz7fkj2yu",
-    "adversarialLogCid": "bafkreie6gwbk57kszzdlxpxjwjgbvo7akof3fkscic472ttlov6pkkbpf4",
-    "hypercertPayloadCid": "bafkreigft5hbrmdhfeccly2qcrokguq7ov44votgpwafisakzv4efxxioe"
+    "evidenceBundleCid": "bafkreih3gqiz4e5q4znvzd2lssabaqnkks2v2bodp3653clvov6vg4ztaq",
+    "adversarialLogCid": "bafkreifzghrpjblpft3ffjhcvnyxo42heehcetyqmay56ich2z62eknhp4",
+    "hypercertPayloadCid": "bafkreick65uf4ovzi7vqxtcqhwua3mx5sf7kgb5wx5pkqzv6l7qyzerhoa"
   },
-  "generatedAt": "2026-03-28T16:37:13.270Z",
+  "generatedAt": "2026-03-29T17:10:43.641Z",
   "atproto": {
-    "activityUri": "at://did:plc:fke3rhssj7rdghxee2t73x73/org.hypercerts.claim.activity/3mi52xn5jyi2c",
-    "activityCid": "bafyreif3wlu337nt2wulfq5dzv6ip3lodhu57ebacctkze3b6suownlk4u",
-    "evaluationUri": "at://did:plc:fke3rhssj7rdghxee2t73x73/org.hypercerts.context.evaluation/3mi52xofcxv2y",
-    "evaluationCid": "bafyreiaz3kld5obt7hgdaqq6mb5azg4wgslsijazmt4kcrblwpzaixlgqi",
-    "attachmentUri": "at://did:plc:fke3rhssj7rdghxee2t73x73/org.hypercerts.context.attachment/3mi52xo4jke2e",
-    "attachmentCid": "bafyreie42er3me2tcz4lq36j4ya6cmoospbdzzhq53hxbpfliuhafihic4",
-    "hyperscanUrl": "https://www.hyperscan.dev/data?did=did%3Aplc%3Afke3rhssj7rdghxee2t73x73&collection=org.hypercerts.claim.activity&rkey=3mi52xn5jyi2c"
+    "activityUri": "at://did:plc:fke3rhssj7rdghxee2t73x73/org.hypercerts.claim.activity/3mi7nch5fr52h",
+    "activityCid": "bafyreiberhopdjs72wzrizr34lshd24jg776lfnipm3cw3vaqiffpwx5ri",
+    "evaluationUri": "at://did:plc:fke3rhssj7rdghxee2t73x73/org.hypercerts.context.evaluation/3mi7nci2ksw2t",
+    "evaluationCid": "bafyreihlsrq7rgwno3tlgx2yrgpl4g4s6yauchutrhnaqhvkji3yobfqke",
+    "attachmentUri": "at://did:plc:fke3rhssj7rdghxee2t73x73/org.hypercerts.context.attachment/3mi7nchssdt2r",
+    "attachmentCid": "bafyreidrgbel3emjhy5gok777p3cywfisx6kxay6ocsfozdea56ric57q4",
+    "hyperscanUrl": "https://www.hyperscan.dev/data?did=did%3Aplc%3Afke3rhssj7rdghxee2t73x73&collection=org.hypercerts.claim.activity&rkey=3mi7nch5fr52h"
   }
 }
