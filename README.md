@@ -1,3 +1,5 @@
+[![Kredence](https://img.shields.io/endpoint?url=http://localhost:3000/badge/ghost-xdd-filefusion)](http://localhost:3000/project/ghost-xdd-filefusion)
+
 <div align="">
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
